@@ -1,6 +1,5 @@
 
-const API_URL = "http://127.0.0.1:8000/predict";
-
+ const API_URL = "https://car-price-prediction-2nd8.onrender.com/predict";
 // Company and model dropdown data
 // Model names must match the categories used during training.
 
